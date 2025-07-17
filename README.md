@@ -26,3 +26,30 @@
 
 # 🛠️ R2 Configuration interfaces 
 ![Router2.1](7-R2-INTCONFG.png)
+
+-R2 Ospf VPn, configuration part2 
+![Router2.2](8-R2-OSPF-VPN-PART1.png)
+
+-R2 configuration part 3
+![Router2.3](9-R2-PART3-CONFIG.png)
+
+-R2 interface Eth0/0 VPN 
+![Router2.4](10-R2-PART3CONFIG.png)
+
+# 🖥️ Desktop2 Configuration 
+![Desktop](11-Desktop2-CONFIG.png)
+
+
+# 🔌 ICMP PING CONECTION 
+
+-From Desktop1 to Desktop2 
+![Desktop1](12-PING-FROM-D1-D2.png)
+
+-From Desktop2 to Desktop1 
+![Desktop2](13-PING-FROM-D2-D1.png)
+
+-From R1 to R2 
+![R1](14-PING-R1-R2.png)
+
+-From R2 to R1 
+![R2](16-PING-R2-R1.png)
